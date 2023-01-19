@@ -1,4 +1,4 @@
-# Pokemon
+# Pokemon (ReactJS)
 
 Pokemon React<br>
 Consumindo API com react-axios.<br>
