@@ -6,7 +6,7 @@ Consumindo API com Axios.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 React
 
 ## ✒️ Autor
